@@ -1,0 +1,9 @@
+.edit_btn{
+    background-color:green !important;
+    color:white;
+    font-family:'Montserrat';
+    border-radius: 3px;
+}
+form{
+    text-align: center;
+}

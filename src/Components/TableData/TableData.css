@@ -1,0 +1,13 @@
+.table{
+    font-family: 'Montserrat' !important;
+}
+.cross_btn{
+    border: none;
+    background: black;
+    color: #ffff;
+    border-radius: 3px;
+    margin-left: 93%;
+}
+.del_btn{
+    background-color: darkred !important;
+}

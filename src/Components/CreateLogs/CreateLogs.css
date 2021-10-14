@@ -1,0 +1,11 @@
+.form-group{
+    text-align: initial;
+}
+.mb-3{
+    text-align: initial;
+}
+label{
+    margin-top: 13px;
+    font-size: 17px;
+    font-weight: 700;
+}
